@@ -1,5 +1,5 @@
 # FrontendChallengeDay2
-Day 2: Diving into CSS - Styling the Web <br/>
+<h2>Day 2: Diving into CSS - Styling the Web</h2> <br/>
 
 🎯 Day 2 of my 21-day coding challenge, and today I took a deep dive into CSS! 🖌️ I covered a lot of ground, laying the foundation for styling web pages.<br/>
 
